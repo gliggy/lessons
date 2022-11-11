@@ -10,7 +10,7 @@ public class Main {
     public static void main(String[] args) {
         int i = 1;
         /**
-         * in linux, there are ansi escape codes (such as "033[0;31m"
+         * in linux, there are ansi escape codes (such as "\033[0;31m"
          * be a certain color, in this case, red. the code increments the
          * last number so that the colors match the value.
          */
